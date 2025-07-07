@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Dana",
+    "email": "dana@example.com",
+    "position_percentage": 100,
+    "country": "Israel",
+    "observes_sabbath": true,
+    "blocked_days": ["2024-06-15", "2024-07-01"]
+  },
+  {
+    "name": "Eli",
+    "email": "eli@example.com",
+    "position_percentage": 50,
+    "country": "Israel",
+    "observes_sabbath": false,
+    "blocked_days": [],
+    "preferred_days": ["Monday", "Wednesday", "Friday"]
+  },
+  {
+    "name": "Alex",
+    "email": "alex@example.com",
+    "position_percentage": 75,
+    "country": "Ukraine",
+    "observes_sabbath": false,
+    "blocked_days": ["2024-07-15"],
+    "preferred_days": ["Tuesday", "Wednesday", "Thursday", "Friday"]
+  }
+]

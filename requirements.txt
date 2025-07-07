@@ -1,0 +1,6 @@
+# Essential dependencies for the minimal scheduler
+# No external libraries needed - uses only Python standard library
+
+# Optional development dependencies
+pytest>=7.0.0     # For testing (optional)
+black>=23.0.0     # For code formatting (optional)
