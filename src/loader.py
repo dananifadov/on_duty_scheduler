@@ -1,6 +1,6 @@
 import json
-from .config import EMPLOYEES_FILE
-from .employee import Employee
+from src.config import EMPLOYEES_FILE
+from src.employee import Employee
 
 def load_employees():
     try:
