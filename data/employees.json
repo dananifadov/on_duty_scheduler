@@ -1,28 +1,146 @@
 [
   {
-    "name": "Dana",
-    "email": "dana@example.com",
+    "name": "Or Maya",
+    "email": "orm@example.com",
     "position_percentage": 100,
     "country": "Israel",
-    "observes_sabbath": true,
-    "blocked_days": ["2024-06-15", "2024-07-01"]
+    "observes_sabbath": false,
+    "blocked_days": ["2025-09-22"],
+    "blocked_ranges": []
   },
   {
-    "name": "Eli",
-    "email": "eli@example.com",
-    "position_percentage": 50,
+    "name": "Matan Danino",
+    "email": "matand@example.com",
+    "position_percentage": 100,
     "country": "Israel",
     "observes_sabbath": false,
     "blocked_days": [],
-    "preferred_days": ["Monday", "Wednesday", "Friday"]
+    "blocked_ranges": [{"start": "2025-09-01", "end": "2025-09-30"}]
   },
   {
-    "name": "Alex",
-    "email": "alex@example.com",
-    "position_percentage": 75,
-    "country": "Ukraine",
+    "name": "Eliran Crief",
+    "email": "elirancr@@example.com",
+    "position_percentage": 100,
+    "country": "Israel",
+    "observes_sabbath": true,
+    "blocked_days": ["2025-09-01", "2025-09-02", "2025-09-05", "2025-09-06", "2025-09-26", "2025-09-27"],
+    "blocked_ranges": [{"start": "2025-09-12", "end": "2025-09-24"}]
+  },
+  {
+    "name": "Tom Lahav",
+    "email": "toml@example.com",
+    "position_percentage": 100,
+    "country": "Israel",
     "observes_sabbath": false,
-    "blocked_days": ["2024-07-15"],
-    "preferred_days": ["Tuesday", "Wednesday", "Thursday", "Friday"]
+    "blocked_days": [],
+    "blocked_ranges": []
+  },
+  {
+    "name": "Eran Shtark",
+    "email": "eransh@example.com",
+    "position_percentage": 100,
+    "country": "Israel",
+    "observes_sabbath": false,
+    "blocked_days": ["2025-09-05"],
+    "blocked_ranges": [{"start": "2025-09-12", "end": "2025-09-24"}]
+  },
+  {
+    "name": "Shirley Morag",
+    "email": "shirleyi@example.com",
+    "position_percentage": 100,
+    "country": "Israel",
+    "observes_sabbath": true,
+    "blocked_days": ["2025-09-01", "2025-09-05"],
+    "blocked_ranges": [{"start": "2025-09-22", "end": "2025-09-24"}]
+  },
+  {
+    "name": "Chloe Mauda",
+    "email": "chloema@example.com",
+    "position_percentage": 100,
+    "country": "Israel",
+    "observes_sabbath": true,
+    "blocked_days": [],
+    "blocked_ranges": [{"start": "2025-09-22", "end": "2025-09-25"}]
+  },
+  {
+    "name": "Aviv Morag",
+    "email": "avivm@example.com",
+    "position_percentage": 100,
+    "country": "Israel",
+    "observes_sabbath": true,
+    "blocked_days": [],
+    "blocked_ranges": []
+  },
+  {
+    "name": "Dean Sade",
+    "email": "DeanSa@example.com",
+    "position_percentage": 100,
+    "country": "Israel",
+    "observes_sabbath": false,
+    "blocked_days": ["2025-09-02", "2025-09-03"],
+    "blocked_ranges": [{"start": "2025-09-23", "end": "2025-09-27"}]
+  },
+  {
+    "name": "Rotem Tsabari",
+    "email": "rotems@example.com",
+    "position_percentage": 100,
+    "country": "Israel",
+    "observes_sabbath": true,
+    "blocked_days": [],
+    "blocked_ranges": [{"start": "2025-09-22", "end": "2025-09-27"}]
+  },
+  {
+    "name": "Lior Pardess",
+    "email": "liorpa@example.com",
+    "position_percentage": 100,
+    "country": "Israel",
+    "observes_sabbath": false,
+    "blocked_days": [],
+    "blocked_ranges": [{"start": "2025-09-20", "end": "2025-09-30"}]
+  },
+  {
+    "name": "Alina Sorgin",
+    "email": "AlinaSo@example.com",
+    "position_percentage": 100,
+    "country": "Israel",
+    "observes_sabbath": false,
+    "blocked_days": ["2025-09-01"],
+    "blocked_ranges": []
+  },
+  {
+    "name": "Boaz Priel",
+    "email": "boazp@example.com",
+    "position_percentage": 100,
+    "country": "Israel",
+    "observes_sabbath": true,
+    "blocked_days": [],
+    "blocked_ranges": [{"start": "2025-09-22", "end": "2025-09-24"}]
+  },
+  {
+    "name": "Dana Nifadov",
+    "email": "danan@example.com",
+    "position_percentage": 100,
+    "country": "Israel",
+    "observes_sabbath": false,
+    "blocked_days": ["2025-09-02"],
+    "blocked_ranges": [{"start": "2025-09-04", "end": "2025-09-13"}]
+  },
+  {
+    "name": "Tal Danilof",
+    "email": "taldan@example.com",
+    "position_percentage": 100,
+    "country": "Israel",
+    "observes_sabbath": false,
+    "blocked_days": ["2025-09-01", "2025-09-05", "2025-09-06"],
+    "blocked_ranges": [{"start": "2025-09-18", "end": "2025-09-30"}]
+  },
+  {
+    "name": "Adam Aizenshtat",
+    "email": "adamai@example.com",
+    "position_percentage": 100,
+    "country": "Israel",
+    "observes_sabbath": false,
+    "blocked_days": ["2025-09-01"],
+    "blocked_ranges": [{"start": "2025-09-22", "end": "2025-09-24"}]
   }
 ]
