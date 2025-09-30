@@ -1,0 +1,115 @@
+{
+  "2025": {
+    "January": [
+    ],
+    "April": [
+      {
+        "name": "Passover (First Day)",
+        "date": "2025-04-13",
+        "type": "vacation",
+        "country": "Israel"
+      },
+      {
+        "name": "Passover (Last Day)",
+        "date": "2025-04-19",
+        "type": "vacation",
+        "country": "Israel"
+      }
+    ],
+    "May": [
+      {
+        "name": "Memorial Day",
+        "date": "2025-05-05",
+        "type": "national",
+        "country": "Israel"
+      },
+      {
+        "name": "Independence Day",
+        "date": "2025-05-06",
+        "type": "national",
+        "country": "Israel"
+      }
+    ],
+    "June": [
+      {
+        "name": "Shavuot",
+        "date": "2025-06-02",
+        "type": "vacation",
+        "country": "Israel"
+      }
+    ],
+    "August": [
+      {
+        "name": "Company Summer Break",
+        "date": "2025-08-15",
+        "type": "vacation",
+        "country": "Company"
+      }
+    ],
+    "September": [
+        {
+            "name": "Rosh Hashanah Evening",
+            "date": "2025-09-22",
+            "type": "vacation",
+            "country": "Israel"
+          },
+          {
+        "name": "Rosh Hashanah (First Day)",
+        "date": "2025-09-23",
+        "type": "vacation",
+        "country": "Israel"
+      },
+      {
+        "name": "Rosh Hashanah (Second Day)",
+        "date": "2025-09-24",
+        "type": "vacation",
+        "country": "Israel"
+      },
+      {
+        "name": "Sukkot (First Day)",
+        "date": "2025-09-30",
+        "type": "vacation",
+        "country": "Israel"
+      }
+    ],
+    "October": [
+
+      {
+        "name": "Yom Kippur Evening",
+        "date": "2025-10-01",
+        "type": "vacation",
+        "country": "Israel"
+      },
+      {
+        "name": "Yom Kippur",
+        "date": "2025-10-02",
+        "type": "vacation",
+        "country": "Israel"
+      },
+      {
+        "name": "Sukkot evening",
+        "date": "2025-10-06",
+        "type": "vacation",
+        "country": "Israel"
+      },
+      {
+        "name": "Sukkot",
+        "date": "2025-10-07",
+        "type": "vacation",
+        "country": "Israel"
+      },
+      {
+        "name": "Simchat Torah evening",
+        "date": "2025-10-06",
+        "type": "vacation",
+        "country": "Israel"
+      },
+      {
+        "name": "Simchat Torah",
+        "date": "2025-10-07",
+        "type": "vacation",
+        "country": "Israel"
+      }
+    ]
+  }
+}

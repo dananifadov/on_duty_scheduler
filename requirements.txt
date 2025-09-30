@@ -1,5 +1,6 @@
-# Essential dependencies for the minimal scheduler
-# No external libraries needed - uses only Python standard library
+# Core dependencies
+openpyxl>=3.0.0   # Excel file writing
+flask>=2.0.0      # Web interface for blocked days management
 
 # Optional development dependencies
 pytest>=7.0.0     # For testing (optional)

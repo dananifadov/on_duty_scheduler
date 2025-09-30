@@ -5,7 +5,9 @@
     "position_percentage": 100,
     "country": "Israel",
     "observes_sabbath": false,
-    "blocked_days": ["2025-09-22"],
+    "blocked_days": [
+      "2025-09-22"
+    ],
     "blocked_ranges": []
   },
   {
@@ -15,7 +17,12 @@
     "country": "Israel",
     "observes_sabbath": false,
     "blocked_days": [],
-    "blocked_ranges": [{"start": "2025-09-01", "end": "2025-09-30"}]
+    "blocked_ranges": [
+      {
+        "start": "2025-09-01",
+        "end": "2025-09-30"
+      }
+    ]
   },
   {
     "name": "Eliran Crief",
@@ -23,8 +30,20 @@
     "position_percentage": 100,
     "country": "Israel",
     "observes_sabbath": true,
-    "blocked_days": ["2025-09-01", "2025-09-02", "2025-09-05", "2025-09-06", "2025-09-26", "2025-09-27"],
-    "blocked_ranges": [{"start": "2025-09-12", "end": "2025-09-24"}]
+    "blocked_days": [
+      "2025-09-01",
+      "2025-09-02",
+      "2025-09-05",
+      "2025-09-06",
+      "2025-09-26",
+      "2025-09-27"
+    ],
+    "blocked_ranges": [
+      {
+        "start": "2025-09-12",
+        "end": "2025-09-24"
+      }
+    ]
   },
   {
     "name": "Tom Lahav",
@@ -41,8 +60,15 @@
     "position_percentage": 100,
     "country": "Israel",
     "observes_sabbath": false,
-    "blocked_days": ["2025-09-05"],
-    "blocked_ranges": [{"start": "2025-09-12", "end": "2025-09-24"}]
+    "blocked_days": [
+      "2025-09-05"
+    ],
+    "blocked_ranges": [
+      {
+        "start": "2025-09-12",
+        "end": "2025-09-24"
+      }
+    ]
   },
   {
     "name": "Shirley Morag",
@@ -50,8 +76,16 @@
     "position_percentage": 100,
     "country": "Israel",
     "observes_sabbath": true,
-    "blocked_days": ["2025-09-01", "2025-09-05"],
-    "blocked_ranges": [{"start": "2025-09-22", "end": "2025-09-24"}]
+    "blocked_days": [
+      "2025-09-01",
+      "2025-09-05"
+    ],
+    "blocked_ranges": [
+      {
+        "start": "2025-09-22",
+        "end": "2025-09-24"
+      }
+    ]
   },
   {
     "name": "Chloe Mauda",
@@ -60,7 +94,12 @@
     "country": "Israel",
     "observes_sabbath": true,
     "blocked_days": [],
-    "blocked_ranges": [{"start": "2025-09-22", "end": "2025-09-25"}]
+    "blocked_ranges": [
+      {
+        "start": "2025-09-22",
+        "end": "2025-09-25"
+      }
+    ]
   },
   {
     "name": "Aviv Morag",
@@ -77,8 +116,16 @@
     "position_percentage": 100,
     "country": "Israel",
     "observes_sabbath": false,
-    "blocked_days": ["2025-09-02", "2025-09-03"],
-    "blocked_ranges": [{"start": "2025-09-23", "end": "2025-09-27"}]
+    "blocked_days": [
+      "2025-09-02",
+      "2025-09-03"
+    ],
+    "blocked_ranges": [
+      {
+        "start": "2025-09-23",
+        "end": "2025-09-27"
+      }
+    ]
   },
   {
     "name": "Rotem Tsabari",
@@ -87,7 +134,12 @@
     "country": "Israel",
     "observes_sabbath": true,
     "blocked_days": [],
-    "blocked_ranges": [{"start": "2025-09-22", "end": "2025-09-27"}]
+    "blocked_ranges": [
+      {
+        "start": "2025-09-22",
+        "end": "2025-09-27"
+      }
+    ]
   },
   {
     "name": "Lior Pardess",
@@ -96,7 +148,12 @@
     "country": "Israel",
     "observes_sabbath": false,
     "blocked_days": [],
-    "blocked_ranges": [{"start": "2025-09-20", "end": "2025-09-30"}]
+    "blocked_ranges": [
+      {
+        "start": "2025-09-20",
+        "end": "2025-09-30"
+      }
+    ]
   },
   {
     "name": "Alina Sorgin",
@@ -104,7 +161,9 @@
     "position_percentage": 100,
     "country": "Israel",
     "observes_sabbath": false,
-    "blocked_days": ["2025-09-01"],
+    "blocked_days": [
+      "2025-09-01"
+    ],
     "blocked_ranges": []
   },
   {
@@ -114,7 +173,12 @@
     "country": "Israel",
     "observes_sabbath": true,
     "blocked_days": [],
-    "blocked_ranges": [{"start": "2025-09-22", "end": "2025-09-24"}]
+    "blocked_ranges": [
+      {
+        "start": "2025-09-22",
+        "end": "2025-09-24"
+      }
+    ]
   },
   {
     "name": "Dana Nifadov",
@@ -122,8 +186,15 @@
     "position_percentage": 100,
     "country": "Israel",
     "observes_sabbath": false,
-    "blocked_days": ["2025-09-02"],
-    "blocked_ranges": [{"start": "2025-09-04", "end": "2025-09-13"}]
+    "blocked_days": [
+      "2025-09-02"
+    ],
+    "blocked_ranges": [
+      {
+        "start": "2025-09-04",
+        "end": "2025-09-13"
+      }
+    ]
   },
   {
     "name": "Tal Danilof",
@@ -131,8 +202,17 @@
     "position_percentage": 100,
     "country": "Israel",
     "observes_sabbath": false,
-    "blocked_days": ["2025-09-01", "2025-09-05", "2025-09-06"],
-    "blocked_ranges": [{"start": "2025-09-18", "end": "2025-09-30"}]
+    "blocked_days": [
+      "2025-09-01",
+      "2025-09-05",
+      "2025-09-06"
+    ],
+    "blocked_ranges": [
+      {
+        "start": "2025-09-18",
+        "end": "2025-09-30"
+      }
+    ]
   },
   {
     "name": "Adam Aizenshtat",
@@ -140,7 +220,14 @@
     "position_percentage": 100,
     "country": "Israel",
     "observes_sabbath": false,
-    "blocked_days": ["2025-09-01"],
-    "blocked_ranges": [{"start": "2025-09-22", "end": "2025-09-24"}]
+    "blocked_days": [
+      "2025-09-01"
+    ],
+    "blocked_ranges": [
+      {
+        "start": "2025-09-22",
+        "end": "2025-09-24"
+      }
+    ]
   }
 ]

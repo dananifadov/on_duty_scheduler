@@ -28,7 +28,7 @@ class Employee:
         # runtime (for current build)
         self.assignments = {}               # {'YYYY-MM-DD': 'WD'/'Th'/'WE'/'B'}
         self.points = 0.0                   # weighted, live
-        self.counts = {"WD": 0, "Th": 0, "WE": 0, "B": 0}
+        self.counts = {"WD": 0, "Th": 0, "WE": 0, "B": 0, "HO": 0}
 
     @classmethod
     def from_dict(cls, d: dict):
@@ -91,7 +91,7 @@ class Employee:
     def reset_runtime(self):
         self.assignments = {}
         self.points = 0.0
-        self.counts = {"WD": 0, "Th": 0, "WE": 0, "B": 0}
+        self.counts = {"WD": 0, "Th": 0, "WE": 0, "B": 0, "HO": 0}
 
     def is_available(self, d: date) -> bool:
         iso = d.isoformat()
